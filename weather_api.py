@@ -8,7 +8,7 @@ import time
 # ------------------------------------------------------------------------------
 
 
-api_key = "9e862f3308bb2afb0be69a33118db597"
+api_key = "secret_token" # Insert your API key here
 lat = 47.238435
 lon = 9.598354
 
